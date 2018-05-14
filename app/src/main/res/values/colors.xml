@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00695c</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="colorAccent">#757575</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="error_text_color">#FF9800</color>
+    <color name="logon_button_text_color">#000000</color>
+    <color name="logon_button_background_color">#FFFFFF</color>
+    <color name="logon_edit_text_color">#ffffff</color>
+    <color name="logon_edit_text_hint_color">#80CBC4</color>
+    <color name="register_button_text_color">#000000</color>
+    <color name="register_button_background_color">#FFFFFF</color>
+    <color name="register_edit_text_color">#FFFFFF</color>
+    <color name="register_edit_text_hint_color">#9E9E9E</color>
+    <!-- Predict page element colors -->
+    <color name="transparent">#42424242</color>
+    <color name="your_color_here">#FFFFFF</color>
+    <color name="save_button_text">#1B5E20</color>
+    <color name="team_name_text_color">#FFFFFF</color>
+    <color name="match_misc_info_background_color">#1B5E20</color>
+    <color name="team_name_background_color">#388E3C</color>
+    <color name="score_light_color">#BDBDBD</color>
+    <color name="score_dark_color">#E65100</color>
+    <color name="text_separator_line">#FFFFFF</color>
+    <!-- History page element colors -->
+    <color name="history_team_name_text_color">#000000</color>
+    <color name="history_team_info_background_color">#BDBDBD</color>
+    <color name="history_match_info_background_color">#BDBDBD</color>
+    <color name="history_match_point_background_color">#9E9E9E</color>
+    <color name="history_internal_line_separator">#9E9E9E</color>
+    <color name="history_external_line_separator">#212121</color>
+</resources>

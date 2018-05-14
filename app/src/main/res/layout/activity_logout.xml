@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context=".LogoutActivity">
+
+    <Button
+        android:id="@+id/logout_button_logout_page"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_margin="16dp"
+        android:text="Logout"/>
+
+    <TextView
+        android:id="@+id/logout_email_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:text=""
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:id="@+id/logout_legal_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:text=""
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:id="@+id/logout_from_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:text=""
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/nextpage_button_logout_page"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_margin="16dp"
+        android:text="next page"
+        android:onClick="onClickNextPage"/>
+
+</LinearLayout>

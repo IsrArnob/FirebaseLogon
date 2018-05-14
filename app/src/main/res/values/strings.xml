@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">FirebaseLogon</string>
+    <string name="register_button_text">Create Profile</string>
+    <string name="login_button_text">Login</string>
+    <string name="user_id_edit_text_hint">Enter Email ID</string>
+    <string name="password_edit_text_hint">Enter Password</string>
+    <string name="confirm_password_edit_text_hint">Confirm Password</string>
+    <string name="register_submit_button_text">Submit</string>
+    <string name="legal_name_edit_text_hint">Enter the Name you want to be known by</string>
+    <!-- String parameters for predict score save item -->
+    <string name="teamA_name">Russia</string>
+    <string name="teamB_name">Costa Rica</string>
+    <string name="default_score">0</string>
+    <string name="save_button_text">save</string>
+    <string name="logon_user_name_hint">Enter email ID</string>
+    <string name="logon_password_hint">Enter Password</string>
+    <string name="logon_button_text">Logon</string>
+    <string name="logon_forgot_password_text">Forgot Password?</string>
+    <string name="logon_new_user_text">New User</string>
+    <string name="password_not_matched">Password not matched</string>
+    <string name="user_id_not_matched">User ID doesn\'t exist</string>
+    <string name="retrieve_password_button_text">Send Mail</string>
+    <string name="retrieve_password_mail_id_hint">Enter the registered email Id</string>
+    <!-- String array for team name -->
+    <string name="match_type">Group League</string>
+    <string name="match_date">20 June, 2018</string>
+    <string name="match_time">6:30 PM</string>
+    <string-array name="team_a_name">
+        <item>"Germany"</item>
+        <item>"Bulgaria"</item>
+        <item>"Ghana"</item>
+        <item>"Brazil"</item>
+        <item>"Japan"</item>
+        <item>"Argentina"</item>
+        <item>"Saudi Arabia"</item>
+        <item>"USA"</item>
+        <item>"France"</item>
+        <item>"England"</item>
+        <item>"Iran"</item>
+        <item>"South Korea"</item>
+    </string-array>
+    <string-array name="team_b_name">
+        <item>"Russia"</item>
+        <item>"Somalia"</item>
+        <item>"Nigeria"</item>
+        <item>"Russia"</item>
+        <item>"England"</item>
+        <item>"Iran"</item>
+        <item>"Mexico"</item>
+        <item>"Japan"</item>
+        <item>"Sweden"</item>
+        <item>"Brazil"</item>
+        <item>"Chad"</item>
+        <item>"Greece"</item>
+    </string-array>
+    <!-- String array for team name ends here -->
+    <!-- History page -->
+    <string name="history_score_text">Points Earned</string>
+</resources>
